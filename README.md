@@ -7,8 +7,11 @@ Therefore, it is necessary to consider how to avoid contacting with those germs 
 
 ## MATERIALS
 -Raspberry Pi3 Board
+
 -Servo Motor
+
 -Ultrasonic Sensor
+
 -Trash can
 
 ## PROCESS
