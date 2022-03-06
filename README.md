@@ -90,3 +90,5 @@ GPIO.cleanup ()
 8. Make a mini basket for Raspberry Pi3 board and put it in
 9. Finish!
 
+![image info](./final picture.jpg)
+
