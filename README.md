@@ -17,8 +17,11 @@ Therefore, it is necessary to consider how to avoid contacting with those germs 
 ## PROCESS
 1. Install the Raspbian into the Raspberry Pi3 Board
 2. Connect the bread board and the ultrasonic sencor using with resistance 1K and 2K.
+
  -Ultrasonic Echo pin can't hold the 5V, which means that it can be burned.
+ 
  -It is important to give the resistance and drop the volt
+ 
 3. Write the Ultrasonic code
 4. Write the Servo Motor code and connect it
 5. After connecting successfully, make a combined code for both Servo motor and Ultrasonic code
