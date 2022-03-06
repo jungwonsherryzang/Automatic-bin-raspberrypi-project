@@ -5,11 +5,11 @@ Developing an automatic bin with Raspberry Pi
 Trash can is the necessary thing in our life, but there are innumerable germs in trash can itself. 
 Therefore, it is necessary to consider how to avoid contacting with those germs and keep ourselves safe and clean.
 
-# MATERIALS
->Raspberry Pi3 Board
->Servo Motor
->Ultrasonic Sensor
->Trash can
+## MATERIALS
+-Raspberry Pi3 Board
+-Servo Motor
+-Ultrasonic Sensor
+-Trash can
 
 ## PROCESS
 1. Install the Raspbian into the Raspberry Pi3 Board
